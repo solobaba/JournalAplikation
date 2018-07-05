@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "598718977482",
+    "firebase_url": "https://journalapplikation.firebaseio.com",
+    "project_id": "journalapplikation",
+    "storage_bucket": "journalapplikation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598718977482:android:d22fab1f585aac29",
+        "android_client_info": {
+          "package_name": "com.example.solobaba.journalapplikation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598718977482-in1ucllbt85k8lni3ln0qbpbg80fqbqt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.solobaba.journalapplikation",
+            "certificate_hash": "fa990baf9f68bfd914d05cd6e2c5010361de28b8"
+          }
+        },
+        {
+          "client_id": "598718977482-8963otnfd85g994gl9p1mrrum3go0527.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6zEzllR09TZGpKOJ-CqaVCE-XAmfIAng"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598718977482-8963otnfd85g994gl9p1mrrum3go0527.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
